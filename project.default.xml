@@ -1,0 +1,21 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+      </component>
+      <component name="PyConsoleOptionsProvider">
+        <option name="myPythonConsoleState">
+          <console-settings is-module-sdk="true">
+            <option name="myUseModuleSdk" value="true" />
+            <option name="myAddSourceRoots" value="true" />
+          </console-settings>
+        </option>
+      </component>
+    </defaultProject>
+  </component>
+</application>
